@@ -1,6 +1,13 @@
 # Laboratorium Programowania w chmurach obliczeniowych- sprawozdanie 
 ## Zadanie 1
 Do pierwszego zadania użyty został język php. Kod znajduje się w załączonym pliku index.php.
+
+![present screenshot](./img/7.png)
+
+logi z plik.log
+
+![present screenshot](./img/8.png)
+
 ## Zadanie 2
 Plik Dockerfile został dołączony do sprawozdania.  
 
