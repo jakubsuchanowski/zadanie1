@@ -32,7 +32,7 @@ Należy podać polecenia niezbędne do:
 
 a.	zbudowania opracowanego obrazu kontenera
 
-docker build  - - tag zad2 
+docker build  - - tag zad2 .
 
 b.	uruchomienia kontenera na podstawie zbudowanego obrazu,
 
