@@ -48,7 +48,7 @@ cat plik.log
 
 d.	sprawdzenia, ile warstw posiada zbudowany obraz.
 
-docker history zadanie2
+docker history zad2
 
 ![present screenshot](./img/6.png)
 
